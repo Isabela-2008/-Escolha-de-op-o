@@ -1,0 +1,48 @@
+# Enunciado do Projeto: Calculadora Simples
+
+## Objetivo
+
+Desenvolver uma calculadora simples em Python que permita ao usuário realizar operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+
+## Especificações
+
+1. **Exibição do Menu**
+   - O programa deve exibir um menu com as opções: Adição, Subtração, Multiplicação e Divisão.
+
+2. **Leitura da Escolha do Usuário**
+   - O usuário deve selecionar a operação desejada digitando o número correspondente à opção.
+
+3. **Leitura dos Números**
+   - O programa deve solicitar ao usuário que insira dois números para realizar a operação escolhida.
+
+4. **Execução da Operação**
+   - O programa deve executar a operação escolhida e exibir o resultado.
+   - Para a divisão, o programa deve tratar o caso de divisão por zero e exibir uma mensagem de erro apropriada.
+
+5. **Validação da Escolha**
+   - Se o usuário selecionar uma opção inválida, o programa deve informar que a escolha foi inválida.
+
+## Considerações
+
+- O sistema deve ser executado em modo de linha de comando (CLI).
+- O código deve ser organizado e comentado adequadamente.
+- O programa deve ser simples e fácil de usar, com tratamento básico de erros.
+
+
+# Calculadora Simples em Python
+
+Este é um programa simples em Python que permite ao usuário realizar operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+
+## Funcionalidades
+
+- **Adição:** Soma dois números.
+- **Subtração:** Subtrai o segundo número do primeiro.
+- **Multiplicação:** Multiplica dois números.
+- **Divisão:** Divide o primeiro número pelo segundo. O programa lida com a divisão por zero.
+
+## Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-simples.git
